@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
+.nav{
+    margin-top: 30px;
+    text-align: center;
+    justify-content: space-between;
+}
+a{
+    padding: 5px;
+}
+.idx-img{
+    display: block;
+    margin: 0 auto;
+    padding: 50px;
+    max-width: 200px;
+    opacity: 0.2;  
+    transition: opacity 0.5s;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    margin: 50px;
+    padding: 20px;
+    color:brown;
+    background-color: rgba(230, 150, 47, 0.897);
+    border-radius: 6px;
+}
+img{
+    border-radius: 6px;
+    margin-bottom: 3px;
+}
+.images{
+    margin-top: 30px;
+    text-align: center;
+    justify-content: space-between;
+}
